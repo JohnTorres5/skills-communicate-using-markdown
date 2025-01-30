@@ -3,5 +3,9 @@
 ``` javascript
 var myName = "John Torres";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 I added a H1 header to the page!!!
 
